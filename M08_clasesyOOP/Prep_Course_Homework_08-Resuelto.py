@@ -54,7 +54,7 @@ a2 = Vehiculo('blanco', 'camioneta', 3.6)
 a3 = Vehiculo('negro', 'moto', 1)
 
 
-# In[7]:
+    # In[7]:
 
 
 a1.Acelerar(40)
